@@ -1,4 +1,5 @@
-# Hello World!
+# from profile.UsmanGTA.about import readme
+# readme()
 ![](https://www.geeksultd.com/wp-content/uploads/2020/08/118014278_2904057629706075_8654455818989398520_o-1.jpg)
 ## Glad to see you here!
 I am a full-time student at the Holberton School (Cohort 11), Tulsa. I am hoping to specialize in Web Design next year and can't wait to put my skills to the forefront. Currently working on a diverse set of projects coded in C, Python, HTML, CSS and JS.
