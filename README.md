@@ -1,12 +1,12 @@
-from profile.UsmanGTA.about import readme
-# readme()
+from profile.UsmanGTA.about import readme as Hello_World
+# Hello_World()
 ![](https://www.geeksultd.com/wp-content/uploads/2020/08/118014278_2904057629706075_8654455818989398520_o-1.jpg)
 ## Glad to see you here!
 I am a full-time student at the Holberton School (Cohort 11), Tulsa. I am hoping to specialize in Web Design next year and can't wait to put my skills to the forefront. Currently working on a diverse set of projects coded in C, Python, HTML, CSS and JS.
 
 I had never coded before prior to my admission at Holberton School. This Github represents everything I've learnt and experimented with so far.
 
-<img align="right" width="500" src="https://www.geeksultd.com/wp-content/uploads/2020/08/20200804_222202.jpg">
+<img align="right" width="50%" src="https://www.geeksultd.com/wp-content/uploads/2020/08/20200804_222202.jpg">
 
 ## More about me...
 - Born in Greenwich, CT.
