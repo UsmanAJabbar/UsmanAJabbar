@@ -6,7 +6,7 @@ I am a full-time student at the Holberton School (Cohort 11), Tulsa. I am hoping
 
 I had never coded before prior to my admission at Holberton School. This Github represents everything I've learnt and experimented with so far.
 
-<img align="right" width="50%" src="https://www.geeksultd.com/wp-content/uploads/2020/08/20200804_222202.jpg">
+<img align="right" width="50%" src="https://www.geeksultd.com/wp-content/uploads/2020/10/118949657_2970181146427056_6155015089167344176_o.jpg">
 
 ## More about me...
 - Born in Greenwich, CT.
