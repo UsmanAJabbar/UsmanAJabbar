@@ -7,7 +7,7 @@ Current full-time student at Holberton School (Cohort 11), Tulsa. Looking for Ju
 
 ## Languages / Frameworks
 - Python, Javascript, TypeScript, C, Linux Bash Scripting
-- HTML, CSS, JS, SASS, MySQL, Redis, MongoDB, Flask, SQLAlchemy, Node.js
+- HTML, CSS, JS, SASS, Express, MySQL, Redis, MongoDB, Flask, SQLAlchemy, Node.js
 - Figma / Adobe XD
 
 <img align="right" width="50%" src="https://www.geeksultd.com/wp-content/uploads/2020/10/118949657_2970181146427056_6155015089167344176_o.jpg">
