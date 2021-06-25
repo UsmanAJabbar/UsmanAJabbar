@@ -8,7 +8,7 @@ Current full-time student at Holberton School (Cohort 11), Tulsa. Looking for Ju
 ## Languages / Frameworks
 - Python, Javascript, TypeScript, C, Linux Bash Scripting
 - HTML, CSS, JS, SASS, Express, MySQL, Redis, MongoDB, Flask, SQLAlchemy, Node.js
-- Figma / Adobe XD
+- Figma / Adobe XD -> (Designs -> [Dashboard UI Design](https://www.figma.com/file/oG53FkMBZO9S1WjiScCffK/Puddle-Dashboard), [Personal Redesign](https://www.figma.com/file/CmR3u78JjIDTGP7FUF8i7G/UsmanJabbar.com-Redesign), [Maker's Club Redesign](https://www.figma.com/file/WDuomCINyrcNOe3l7hG2D4/Makers-Club-Redesign))
 
 <img align="right" width="50%" src="https://www.geeksultd.com/wp-content/uploads/2020/10/118949657_2970181146427056_6155015089167344176_o.jpg">
 
