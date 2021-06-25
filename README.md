@@ -1,4 +1,4 @@
-from github.UsmanGTA.UsmanGTA import readme as Hello_World
+from github.UsmanGTA.UsmanGTA import README as Hello_World
 
 # Hello_World()
 ![](https://www.geeksultd.com/wp-content/uploads/2020/08/118014278_2904057629706075_8654455818989398520_o-1.jpg)
