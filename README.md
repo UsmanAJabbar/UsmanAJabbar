@@ -1,6 +1,6 @@
 from github.UsmanGTA.UsmanGTA import README as Hello_World
 
-# Hello_World()
+# print(Hello_World)
 ![](https://www.geeksultd.com/wp-content/uploads/2020/08/118014278_2904057629706075_8654455818989398520_o-1.jpg)
 ## Glad to see you here!
 Current full-time student at Holberton School (Cohort 11), Tulsa. Looking for Junior Software Engineering roles where I could learn from mentors and be able to jump between opposite sides of the stack.
@@ -24,7 +24,9 @@ Current full-time student at Holberton School (Cohort 11), Tulsa. Looking for Ju
 - PC Build Enthusiast with over 14 builds.
 
 > *Things are just as hard as you make them. Things are just as easy as you make them.*
+
 > *The best time to plant a tree was 20 years ago the second best time is now*-
+
 > *90% of people are good, 80% of the time.
 
 <h2 align="center">Follow me/Contact Me</h2>
